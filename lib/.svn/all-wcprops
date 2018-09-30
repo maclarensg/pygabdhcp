@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svnroot/pydhcp/!svn/ver/1/lib
+END
+dhcppacket.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/pydhcp/!svn/ver/1/lib/dhcppacket.pyc
+END
+dhcpoption.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/pydhcp/!svn/ver/1/lib/dhcpoption.pyc
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/pydhcp/!svn/ver/1/lib/__init__.py
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/pydhcp/!svn/ver/1/lib/__init__.pyc
+END
+dhcppacket.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/pydhcp/!svn/ver/1/lib/dhcppacket.py
+END
+dhcpoption.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/pydhcp/!svn/ver/1/lib/dhcpoption.py
+END
